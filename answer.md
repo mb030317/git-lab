@@ -84,3 +84,23 @@ Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 
+Answer 10:
+The changes I made online were not reflected in my local copy
+
+Answer 11:
+The directory fails to push
+
+Answer 12:
+The changed I made online were reflected in my local copy
+
+Answer 13:
+    Directory: C:\Users\Brennen\documents\cs2400\git-lab-2
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d--h--         9/2/2020   4:47 PM                .git
+
+
+
+
