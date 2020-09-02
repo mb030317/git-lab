@@ -42,3 +42,45 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
+Answer 5:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        answer.md
+
+Answer 6:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answer.md
+
+Answer 7:
+[master (root-commit) ef1541b] Initial commit
+ 2 files changed, 46 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 answer.md
+
+Answer 8:
+commit ef1541b5f431e5e792362dd00e3f9b1f288622b6 (HEAD -> master)
+Author: Michael <mb030317@ohio.edu>
+Date:   Wed Sep 2 16:29:42 2020 -0400
+
+    Initial commit
+
+Answer 9:
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
